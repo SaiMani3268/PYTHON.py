@@ -52,15 +52,14 @@ t = fruit.values()
 print(t)
 
 #OUTPUT:
-9666810672
-{}
-{'name': 'Apple', 'colour': 'Red'}
-{'note1': '$', 'note2': '$', 'note3': '$'}
-Red
-dict_items([('name', 'Apple'), ('colour', 'Red')])
-dict_keys(['name', 'colour', 'cost'])
-{'name': 'Apple', 'colour': 'Red'}
-{'name': 'Apple'}
-Red
-{'name': 'Apple', 'colour': 'Red', 'cost': 20, 'colour1': 'DarkRed'}
-dict_values(['Apple', 'Red', 20, 'DarkRed'])
+#{}
+#{'name': 'Apple', 'colour': 'Red'}
+#{'note1': '$', 'note2': '$', 'note3': '$'}
+#Red
+#dict_items([('name', 'Apple'), ('colour', 'Red')])
+#dict_keys(['name', 'colour', 'cost'])
+#{'name': 'Apple', 'colour': 'Red'}
+#{'name': 'Apple'}
+#Red
+#{'name': 'Apple', 'colour': 'Red', 'cost': 20, 'colour1': 'DarkRed'}
+#dict_values(['Apple', 'Red', 20, 'DarkRed'])
