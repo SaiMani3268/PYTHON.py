@@ -10,12 +10,12 @@ print("x<y is ",x<y)
 print("x>y is ",x>y)
 
 #OUTPUT:
-x==y is  False
-x!=y is  True
-x<=y is  True
-x>=y is  False
-x<y is  True
-x>y is  False
+#x==y is  False
+#x!=y is  True
+#x<=y is  True
+#x>=y is  False
+#x<y is  True
+#x>y is  False
 
 
 
@@ -30,12 +30,12 @@ print("x<y is ",x<y)
 print("x>y is ",x>y)
 
 #OUTPUT:
-x==y is  False
-x!=y is  True
-x<=y is  False
-x>=y is  True
-x<y is  False
-x>y is  True
+#x==y is  False
+#x!=y is  True
+#x<=y is  False
+#x>=y is  True
+#x<y is  False
+#x>y is  True
 
 
 
@@ -50,12 +50,12 @@ print("x<y is ",x<y)
 print("x>y is ",x>y)
 
 #OUTPUT:
-x==y is  False
-x!=y is  True
-x<=y is  True
-x>=y is  False
-x<y is  True
-x>y is  False
+#x==y is  False
+#x!=y is  True
+#x<=y is  True
+#x>=y is  False
+#x<y is  True
+#x>y is  False
 
 
 
@@ -70,9 +70,9 @@ print("x<y is ",x<y)
 print("x>y is ",x>y)
 
 #OUTPUT:
-x==y is  True
-x!=y is  False
-x<=y is  True
-x>=y is  True
-x<y is  False
-x>y is  False
+#x==y is  True
+#x!=y is  False
+#x<=y is  True
+#x>=y is  True
+#x<y is  False
+#x>y is  False
