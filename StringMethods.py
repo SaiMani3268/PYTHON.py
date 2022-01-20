@@ -180,55 +180,55 @@ print(x)
 
 
 #OUTPUT:
-Hi,this is someone,you haven't known till now!!!
-hello,world!!
-*****Hello,World!!*****
-4
-ENCODING CONTAINS 5 TYPES OF PARAMETERS
-b'sk\\U00010319 is blue'
-b'sk is blue'
-b'sk\\N{OLD ITALIC LETTER KHE} is blue'
-b'sk? is blue'
-b'sk𐌙 is blue'
-True
-P       YT      HO      N
-4
-I am 18 years old
-19
-True
-False
-False
-True
-True
-True
-True
-True
-False
-True
-False
-True
-True
-True
-True
-False
-True
-True
-True
-apple@banana@orange@kiwi
-Hello,World!!----- sk𐌙 is blue
-p	yt	ho	n
-Hello,World!! not always      sk𐌙 is blue
-sk𐌙 is glue
-('hi,this is someone,', 'you', " haven't known till now!!!")
-three plus three is two,one minus one is zero
--1
-['hi,this is someone', "you haven't known till now!!!"]
-['hi', "this is someone,you haven't known till now!!!"]
-SK𐌙 IS BLUE
-['Thank you for the music', 'Welcome to the jungle']
-True
-hELLO,wORLD!!
-I Am 18 Years Old
-000000000robot5
+#Hi,this is someone,you haven't known till now!!!
+#hello,world!!
+#*****Hello,World!!*****
+#4
+#ENCODING CONTAINS 5 TYPES OF PARAMETERS
+#b'sk\\U00010319 is blue'
+#b'sk is blue'
+#b'sk\\N{OLD ITALIC LETTER KHE} is blue'
+#b'sk? is blue'
+#b'sk𐌙 is blue'
+#True
+#P       YT      HO      N
+#4
+#I am 18 years old
+#19
+#True
+#False
+#False
+#True
+#True
+#True
+#True
+#True
+#False
+#True
+#False
+#True
+#True
+#True
+#True
+#False
+#True
+#True
+#True
+#apple@banana@orange@kiwi
+#Hello,World!!----- sk𐌙 is blue
+#p	yt	ho	n
+#Hello,World!! not always      sk𐌙 is blue
+#sk𐌙 is glue
+3('hi,this is someone,', 'you', " haven't known till now!!!")
+#three plus three is two,one minus one is zero
+#-1
+#['hi,this is someone', "you haven't known till now!!!"]
+#['hi', "this is someone,you haven't known till now!!!"]
+#SK𐌙 IS BLUE
+#['Thank you for the music', 'Welcome to the jungle']
+#True
+#hELLO,wORLD!!
+#I Am 18 Years Old
+#000000000robot5
 
 
