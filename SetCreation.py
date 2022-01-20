@@ -15,11 +15,11 @@ print(set4)
 print(len(set4))
 
 #OUTPUT:
-{'carrot', 'door', 'banana', 'apple'}
-4
-{'carrot', 'door', 'banana', 'apple'}
-4
-{1, 2, 3, 4, 5, 6}
-6
-{False, True}
-2
+#{'carrot', 'door', 'banana', 'apple'}
+#4
+#{'carrot', 'door', 'banana', 'apple'}
+#4
+#{1, 2, 3, 4, 5, 6}
+#6
+#{False, True}
+#2
