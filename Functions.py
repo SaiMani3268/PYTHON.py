@@ -11,12 +11,12 @@ def myfun1(num1,num2):
 myfun1(10,12)
 
 #OUTPUT:
-22
--2
-120
-0.8333333333333334
-10
-1000000.0
+#22
+#-2
+#120
+#0.8333333333333334
+#10
+#1000000.0
 
 #EXAMPLE2
 
@@ -28,6 +28,6 @@ myfun2("AG3")
 myfun2("Good to see you!")
 
 #OUTPUT:
-Hi! World
-Hi! AG3
-Hi! Good to see you!
+#Hi! World
+#Hi! AG3
+#Hi! Good to see you!
