@@ -9,7 +9,7 @@ else:
     print("I will not go out")
 
 #OUTPUT:-
-I will go out
+#I will go out
 
 
 
@@ -21,7 +21,7 @@ else:
     print("I will not go out")
 
 #OUTPUT:-
-I will not go out
+#I will not go out
 
 
 
@@ -33,7 +33,7 @@ if rain == 1:
    print("Frogs will dance")
 
 #OUTPUT:-
-Frogs will dance
+#Frogs will dance
 
 
 
@@ -43,3 +43,4 @@ if rain == 1:
    print("Frogs will dance")
 
 #OUTPUT:-
+#
