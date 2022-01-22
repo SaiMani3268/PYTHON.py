@@ -1,24 +1,26 @@
 #ASSIGNMENT OPERATORS
-#SET1
-x=5
+
+x=input('Enter x value:')
+y=input('Enter y value:')
+x=x+y
 print(x)
-x=x+3
+x=x-y
 print(x)
-x=x-3
+x=x*y
 print(x)
-x=x*3
+x=x/y
 print(x)
-x=x/3
+x=x%y
 print(x)
-x=x%3
+x=x//y
 print(x)
-x=x//3
-print(x)
-x=x**3
+x=x**y
 print(x)
 
-#OUTPUT:
-#5
+
+#OUTPUT-1:
+#Enter x value:5
+#Enter y value:3
 #8
 #5
 #15
@@ -28,27 +30,9 @@ print(x)
 #0.0
 
 
-
-#SET2
-x=10
-print(x)
-x=x+8
-print(x)
-x=x-8
-print(x)
-x=x*8
-print(x)
-x=x/8
-print(x)
-x=x%8
-print(x)
-x=x//8
-print(x)
-x=x**8
-print(x)
-
-#OUTPUT:
-#10
+#OUTPUT-2:
+#Enter x value:10
+#Enter y value:8
 #18
 #10
 #80
@@ -58,27 +42,9 @@ print(x)
 #0.0
 
 
-
-#SET3
-x=8
-print(x)
-x=x+8
-print(x)
-x=x-8
-print(x)
-x=x*8
-print(x)
-x=x/8
-print(x)
-x=x%8
-print(x)
-x=x//8
-print(x)
-x=x**8
-print(x)
-
-#OUTPUT:
-#8
+#OUTPUT-3:
+#Enter x value:8
+#Enter y value:8
 #16
 #8
 #64
@@ -88,27 +54,9 @@ print(x)
 #0.0
 
 
-
-#SET4
-x=10
-print(x)
-x=x+30
-print(x)
-x=x-30
-print(x)
-x=x*30
-print(x)
-x=x/30
-print(x)
-x=x%30
-print(x)
-x=x//30
-print(x)
-x=x**30
-print(x)
-
-#OUTPUT:
-#10
+#OUTPUT-4:
+#Enter x value:10
+#Enter y value:30
 #40
 #10
 #300
