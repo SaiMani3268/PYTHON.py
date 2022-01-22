@@ -21,8 +21,8 @@ print("x>y is ",x>y)
 
 
 #OUTPUT-2:
-Enter x value:2
-Enter y value:1
+#Enter x value:2
+#Enter y value:1
 #x==y is  False
 #x!=y is  True
 #x<=y is  False
@@ -32,8 +32,8 @@ Enter y value:1
 
 
 #OUTPUT-3:
-Enter x value:20
-Enter y value:100
+#Enter x value:20
+#Enter y value:100
 #x==y is  False
 #x!=y is  True
 #x<=y is  True
@@ -43,8 +43,8 @@ Enter y value:100
 
 
 #OUTPUT-4:
-Enter x value:100
-Enter y value:100
+#Enter x value:100
+#Enter y value:100
 #x==y is  True
 #x!=y is  False
 #x<=y is  True
