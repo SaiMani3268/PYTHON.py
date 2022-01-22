@@ -1,7 +1,7 @@
 #COMPARISON OPERATORS
-#SET1
-x=5
-y=10
+
+x=input('Enter x value:')
+y=input('Enter y value:')
 print("x==y is ",x==y)
 print("x!=y is ",x!=y)
 print("x<=y is ",x<=y)
@@ -9,7 +9,9 @@ print("x>=y is ",x>=y)
 print("x<y is ",x<y)
 print("x>y is ",x>y)
 
-#OUTPUT:
+#OUTPUT-1:
+#Enter x value:5
+#Enter y value:10
 #x==y is  False
 #x!=y is  True
 #x<=y is  True
@@ -18,18 +20,9 @@ print("x>y is ",x>y)
 #x>y is  False
 
 
-
-#SET2
-x=2
-y=1
-print("x==y is ",x==y)
-print("x!=y is ",x!=y)
-print("x<=y is ",x<=y)
-print("x>=y is ",x>=y)
-print("x<y is ",x<y)
-print("x>y is ",x>y)
-
-#OUTPUT:
+#OUTPUT-2:
+Enter x value:2
+Enter y value:1
 #x==y is  False
 #x!=y is  True
 #x<=y is  False
@@ -38,18 +31,9 @@ print("x>y is ",x>y)
 #x>y is  True
 
 
-
-#SET3
-x=20
-y=100
-print("x==y is ",x==y)
-print("x!=y is ",x!=y)
-print("x<=y is ",x<=y)
-print("x>=y is ",x>=y)
-print("x<y is ",x<y)
-print("x>y is ",x>y)
-
-#OUTPUT:
+#OUTPUT-3:
+Enter x value:20
+Enter y value:100
 #x==y is  False
 #x!=y is  True
 #x<=y is  True
@@ -58,18 +42,9 @@ print("x>y is ",x>y)
 #x>y is  False
 
 
-
-#SET4
-x=100
-y=100
-print("x==y is ",x==y)
-print("x!=y is ",x!=y)
-print("x<=y is ",x<=y)
-print("x>=y is ",x>=y)
-print("x<y is ",x<y)
-print("x>y is ",x>y)
-
-#OUTPUT:
+#OUTPUT-4:
+Enter x value:100
+Enter y value:100
 #x==y is  True
 #x!=y is  False
 #x<=y is  True
