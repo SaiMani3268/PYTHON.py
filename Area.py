@@ -1,9 +1,10 @@
 #AREA OF CIRCLE
-radius=10
+radius=float(input('Enter the radius of the circle: '))
 pie=3.1452
 area=pie*radius*radius
 print("The area of circle = ",area)
 
 #OUTPUT:
-The area of circle =  314.52
+#Enter the radius of the circle: 10
+#The area of circle =  314.52
 
